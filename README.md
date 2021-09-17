@@ -1,3 +1,5 @@
+__**THIS WILL NOT WORK WITH AHK V2**__
+
 This is a script compiled in AutoHotKey to quickly equip flak from a folder.
 
 To use:
